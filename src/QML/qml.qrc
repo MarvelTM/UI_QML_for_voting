@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Screen1_01.qml</file>
+        <file>Screen1_02.qml</file>
+        <file>Screen1_03.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ImageButton.qml</file>
+        <file>Screen2_01.qml</file>
+        <file>Screen2_02_1.qml</file>
+        <file>Screen2_02_2.qml</file>
+        <file>Screen2_03.qml</file>
+        <file>Screen2_04.qml</file>
+    </qresource>
+</RCC>
